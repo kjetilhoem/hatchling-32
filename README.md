@@ -3,8 +3,9 @@
 ## Purpose of this project
 
 The purpose of this project is to learn. 
-I wish to learn, among other things, about programming Scala, by taking on a
-task which I know requires a lot of detail. It requires me to get a whole lot of things completely right.
+I wish to learn, among other things, about programming Scala, 
+by taking on a task which I know requires me to dive into a lot of detail. 
+Something that requires me to get a whole lot of stuff completely right.
 
 ## Bitwise archaeology
 
