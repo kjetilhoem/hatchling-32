@@ -11,3 +11,5 @@ Growing up in the 80s I learned to program BASIC on the Dragon 32 micro. Greatly
 30 years later as a software business professional, the raw low level realm of machine code has been long since abandoned. Realizing that in order to solve a particular challenge in a piece of software I am so much better off trying to define it precisely and understandably first, often leaving raw performance as an interesting exercise in the end whenever it turns out to be necessary. In practice, my experience is that it only rarely is if you did everything else right.
 
 However, the fascination still lingers on for the low level bit fiddling.
+
+TODO more
