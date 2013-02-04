@@ -1,7 +1,8 @@
 # Hatchling 32
 
 DISCLAIMER: The code in this project is severely embryonic in nature and will only 
-work in particular ways under certain conditions.
+work in particular ways under certain conditions. The idea is to be plummeting down a single 
+vertical as far as possible and bother with details at a later point.
 
 ## Purpose of this project
 
