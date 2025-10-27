@@ -6,7 +6,7 @@ vertical as far as possible and bother little with details.
 
 ## Purpose of this project
 
-The purpose of this project is to learn. I wish to learn, among other things, about programming Scala, by taking on a task which I know requires me to dive into a lot of detail. Something that requires me to get a whole lot of stuff completely right.
+The purpose of this project was to learn. One thing I wanted to learn about was programming in Scala, and by taking on a task which I knew required me to dive into a lot of detail motivated by a goal of getting things to work little by little. This required me to get a whole lot of stuff completely right, and allowed experimenting with dense functional definitions for a lot of the repetitive details in the instruction set.
 
 ## What the code does
 
